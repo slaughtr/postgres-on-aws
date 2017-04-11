@@ -1,4 +1,4 @@
-#Basic guide to creating and connecting to a PostgreSQL database on Amazon Web Services (AWS) using Relational Database Service (RDS).
+# _Basic guide to creating and connecting to a PostgreSQL database on Amazon Web Services (AWS) using Relational Database Service (RDS)._
 
 
 Log in to console.aws.amazon.com
@@ -15,7 +15,7 @@ Type in *"RDS"* and click on RDS
 
 On the left side of the screen, click on *"Instances"*. In the Instances screen, click the button labeled *"Launch DB Instance"*
 
-![alt text](./screens/rdsInstancesScreen.png "Instances screen")
+![alt text](./screens/RDSInstancesScreen.png "Instances screen")
 
 On the next screen, click the *"PostgreSQL"* tab on the left. Then click the *"Select"* button in the upper right.
 
